@@ -14,3 +14,19 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+.icon{
+  max-width: 90px;
+  max-height: 90px;
+}
+
+.titlePs{
+  display: flex;
+  justify-content: space-around;
+}
