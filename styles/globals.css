@@ -21,12 +21,12 @@ a {
   position: relative;
 }
 
-.icon{
+.icon {
   max-width: 90px;
   max-height: 90px;
 }
 
-.titlePs{
+.titlePs {
   display: flex;
   justify-content: space-around;
 }

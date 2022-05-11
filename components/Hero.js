@@ -15,9 +15,11 @@ const Hero = () => {
                 <span className="text-primary font-weight-medium">dreams</span>
               </h1>
               <p className="text-muted mb-4 pb-2">
-                We are a company that provides you with the best services in the IT industry, and now you can be part of us.
-                We are hiring people who are passionate about the IT industry that want to work for a company that is dedicated to 
-                the development of the best solutions. 
+                We are a company that provides you with the best services in the
+                IT industry, and now you can be part of us. We are hiring people
+                who are passionate about the IT industry that want to work for a
+                company that is dedicated to the development of the best
+                solutions.
               </p>
               <a href="#feature" className="btn btn-warning">
                 Find Out How <span className="ml-2 right-icon">&#8594;</span>
