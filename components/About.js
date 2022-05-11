@@ -8,15 +8,15 @@ const About = () => {
           <Col lg={6} md={8}>
             <div className='title text-center mb-5'>
               <h3 className='font-weight-normal text-dark'>
-                {` `}
+                {" "}
                 About <span className='text-warning'> Us </span>
               </h3>
               <p className='text-muted'>
-                {` `}
+                {" "}
                 We are a company in charge of offering digital marketing
                 solutions and applications for your projects and sales, with
                 more than 10,000 employees and several teams working together,
-                we can make what you thought impossible, possible.{` `}
+                we can make what you thought impossible, possible.{" "}
               </p>
             </div>
           </Col>
@@ -24,7 +24,7 @@ const About = () => {
         <Row>
           <Col md={4}>
             <h2 className='font-weight-light line-height-1_6 text-dark mb-4'>
-              "We don't solve problems, we create solutions"
+              We don`t solve problems, we create solutions
             </h2>
           </Col>
           <Col md={{ size: 7, offset: 1 }}>
